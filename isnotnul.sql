@@ -4,4 +4,4 @@
 
 SELECT CustomerName, ContactName, Address
 FROM Customers
-WHERE Address IS NOT NULL;
+where Address IS NOT NULL;
