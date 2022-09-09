@@ -1,0 +1,2 @@
+-- It is the WHERE clause that determines how many records will be updated
+-- WHERE Satetement determines how many record will be updated
